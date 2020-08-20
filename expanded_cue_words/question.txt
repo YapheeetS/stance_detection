@@ -1,0 +1,10 @@
+what 
+when 
+why 
+which 
+who 
+whose 
+whom
+how
+whether
+where
